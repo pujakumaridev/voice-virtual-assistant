@@ -1,0 +1,6 @@
+elevenlabs
+google-genai
+sounddevice
+scipy
+numpy
+python-dotenv
